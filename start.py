@@ -1,7 +1,3 @@
-from os import system
-from rich import print
-
-system("clear||cls")
 
 print("[red on white]Welcome to your first day of Dragon Training![/red on white]")
 
